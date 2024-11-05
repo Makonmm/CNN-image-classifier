@@ -49,8 +49,16 @@ The CIFAR-10 dataset is a widely used dataset for image classification. It conta
 - Ships
 - Trucks
 
+## Images
+![Confusion matrix (test data)](images/Confusion_matrix.png)
+![Convolutional weights](images/conv_weights1.png)
+![Convolutional weights](images/conv_weights2.png)
+![Convolutional weights](images/conv4_weights_input0.png)
+![Output Kernels](images/output_first_layer_kernels.png)
+![Output kernels IMG](images/output_kernels_img.png)
+![Output kernels IMG 2](images/output_kernels_img2.png)
 
-### How to contribute:
+## How to contribute:
 
 1. Fork the repository.
 2. Create a new branch 
@@ -62,13 +70,5 @@ The CIFAR-10 dataset is a widely used dataset for image classification. It conta
 Please make sure to follow the existing coding style.
 
 I appreciate your contributions! 
-## Images
-![Confusion matrix (test data)](images/Confusion_matrix.png)
-![Convolutional weights](images/conv_weights1.png)
-![Convolutional weights](images/conv_weights2.png)
-![Convolutional weights](images/conv4_weights_input0.png)
-![Output Kernels](images/output_first_layer_kernels.png)
-![Output kernels IMG](images/output_kernels_img.png)
-![Output kernels IMG 2](images/output_kernels_img2.png)
 
 
